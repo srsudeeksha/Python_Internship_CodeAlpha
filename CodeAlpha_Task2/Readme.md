@@ -124,8 +124,8 @@ TOTAL                           $3098.75
 - **Transaction logging** for complete audit trail
 
 ## 📁 Files
-- `stock_portfolio_tracker.py` - Main portfolio tracker implementation
-- `README.md` - Project documentation
+- `CodeAlpha_StockPortfolio.py` - Main portfolio tracker implementation
+- `Readme.md` - Project documentation
 
 ## 👨‍💻 Author
 **CodeAlpha Python Programming Intern**
