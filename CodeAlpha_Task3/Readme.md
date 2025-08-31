@@ -49,7 +49,7 @@ requests>=2.28.0
 pip install -r requirements.txt
 
 # Run the automation suite
-python task_automation_scripts.py
+python CodeAlpha_TaskAutomationScripts.py
 ```
 
 ## 🛠️ Automation Tasks
@@ -131,9 +131,8 @@ The suite includes a "Run All Tasks" feature that executes all three automation 
 - **Robust error handling** for production-ready reliability
 
 ## 📁 Files
-- `task_automation_scripts.py` - Main automation suite implementation
-- `requirements.txt` - Required Python packages
-- `README.md` - Project documentation
+- `CodeAlpha_TaskAutomationScripts.py` - Main automation suite implementation
+- `Readme.md` - Project documentation
 
 ## 👨‍💻 Author
 **CodeAlpha Python Programming Intern**
