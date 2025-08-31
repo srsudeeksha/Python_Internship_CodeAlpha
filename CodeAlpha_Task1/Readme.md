@@ -24,7 +24,7 @@ This project was developed as part of the **CodeAlpha Python Programming Interns
 
 ## 🚀 How to Run
 ```bash
-python hangman_game.py
+python CodeAlpha_HangmanGame.py
 ```
 
 ## 🎮 How to Play
