@@ -39,7 +39,7 @@ This project was developed as part of the **CodeAlpha Python Programming Interns
 
 ## 🚀 How to Run
 ```bash
-python stock_portfolio_tracker.py
+python CodeAlpha_StockPortfolio.py
 ```
 
 ## 📋 Main Features
