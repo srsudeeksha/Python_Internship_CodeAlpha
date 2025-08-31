@@ -141,7 +141,7 @@ The chatbot uses random selection from multiple response options to make convers
 **CodeAlpha Python Programming Intern**
 
 ## 📧 Contact
-- GitHub: [[Your GitHub Profile]](https://github.com/srsudeeksha/Python_Internship_CodeAlpha/tree/main/CodeAlpha_Task4)
+- GitHub: https://github.com/srsudeeksha/Python_Internship_CodeAlpha/tree/main/CodeAlpha_Task4
 - LinkedIn: www.linkedin.com/in/ranga-sudeeksha
 
 ---
