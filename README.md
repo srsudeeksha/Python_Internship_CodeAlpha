@@ -134,14 +134,6 @@ Through these projects, I have gained proficiency in:
 - **Professional Documentation** - Comprehensive README files
 - **Version Control** - Proper Git repository management
 
-## 🎬 Demo Videos
-
-Each project includes a demonstration video posted on LinkedIn:
-- [Task 1 Demo Video] - Hangman Game walkthrough
-- [Task 2 Demo Video] - Portfolio tracker demonstration  
-- [Task 3 Demo Video] - Automation suite showcase
-- [Task 4 Demo Video] - Chatbot conversation examples
-
 ## 📈 Future Enhancements
 
 Potential improvements and extensions for these projects:
