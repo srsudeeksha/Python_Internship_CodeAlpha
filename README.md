@@ -8,7 +8,7 @@ This repository showcases all projects completed during the **CodeAlpha Python P
 ## 🏆 Completed Projects
 
 ### Task 1: 🎮 Hangman Game
-**Repository:** [CodeAlpha_HangmanGame]https://github.com/srsudeeksha/Python_Internship_CodeAlpha/tree/main/CodeAlpha_Task1
+**Repository:** https://github.com/srsudeeksha/Python_Internship_CodeAlpha/tree/main/CodeAlpha_Task1
 
 A classic text-based word guessing game with ASCII art hangman drawings.
 
@@ -23,7 +23,7 @@ A classic text-based word guessing game with ASCII art hangman drawings.
 ---
 
 ### Task 2: 📊 Stock Portfolio Tracker  
-**Repository:** [CodeAlpha_StockPortfolioTracker]https://github.com/srsudeeksha/Python_Internship_CodeAlpha/tree/main/CodeAlpha_Task2
+**Repository:** https://github.com/srsudeeksha/Python_Internship_CodeAlpha/tree/main/CodeAlpha_Task2
 
 A comprehensive investment tracking system with portfolio analytics.
 
@@ -38,7 +38,7 @@ A comprehensive investment tracking system with portfolio analytics.
 ---
 
 ### Task 3: 🤖 Task Automation Scripts
-**Repository:** [CodeAlpha_TaskAutomation]https://github.com/srsudeeksha/Python_Internship_CodeAlpha/tree/main/CodeAlpha_Task3
+**Repository:** https://github.com/srsudeeksha/Python_Internship_CodeAlpha/tree/main/CodeAlpha_Task3
 
 An automation suite with three tools for repetitive task handling.
 
@@ -53,7 +53,7 @@ An automation suite with three tools for repetitive task handling.
 ---
 
 ### Task 4: 💬 Basic Chatbot
-**Repository:** [CodeAlpha_BasicChatbot]https://github.com/srsudeeksha/Python_Internship_CodeAlpha/tree/main/CodeAlpha_Task4
+**Repository:** https://github.com/srsudeeksha/Python_Internship_CodeAlpha/tree/main/CodeAlpha_Task4
 
 A rule-based conversational AI with intelligent pattern matching.
 
