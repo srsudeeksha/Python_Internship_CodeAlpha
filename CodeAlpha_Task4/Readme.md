@@ -25,7 +25,7 @@ This project was developed as part of the **CodeAlpha Python Programming Interns
 
 ## 🚀 How to Run
 ```bash
-python basic_chatbot.py
+python CodeAlpha_BasicChatbot.py
 ```
 
 ## 💬 Conversation Categories
@@ -134,8 +134,8 @@ The chatbot uses random selection from multiple response options to make convers
 - **Conversation flow control** with proper exit handling
 
 ## 📁 Files
-- `basic_chatbot.py` - Main chatbot implementation
-- `README.md` - Project documentation
+- `CodeAlpha_BasicChatbot.py` - Main chatbot implementation
+- `Readme.md` - Project documentation
 
 ## 👨‍💻 Author
 **CodeAlpha Python Programming Intern**
